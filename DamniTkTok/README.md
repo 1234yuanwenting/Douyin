@@ -1,4 +1,10 @@
 # DamniTkTok
+This is a Team project
+developer
 
-Create TikTok stupidly as my first program.
+@XiaoLiang2333
+@TomrroW007
+@1234yuanwenting袁文婷
+
+Create TikTok stupidly as my program.
 
